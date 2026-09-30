@@ -62,15 +62,14 @@ CMOS_Inverter_LTspice/
 * Understood the basics of static and dynamic power consumption.
 * Strengthened foundational knowledge of digital VLSI design and LTspice.
 
-## Internship Details
 
-* **Organization:** InternPe
+
 * **Domain:** VLSI
-* **Task:** Week 1 - CMOS Inverter Design
+* **Task:** CMOS Inverter Design
 * **Simulation Tool:** LTspice
 
 ## Author
 
 **Amulya Thanda**
 Electronics and Communication Engineering
-Malla Reddy College of Engineering & Technology
+
