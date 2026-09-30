@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on the transistor-level design and simulation of a CMOS Inverter using LTspice as part of my Week 1 VLSI Internship at InternPe.
+This project focuses on the transistor-level design and simulation of a CMOS Inverter using LTspice 
 
 A CMOS Inverter is one of the fundamental building blocks of digital integrated circuits. This project explores its operation using complementary PMOS and NMOS transistors to understand the basic principles of CMOS logic design.
 
